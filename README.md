@@ -10,4 +10,8 @@ Adnan Haider
 <br>
 Studying at Govt Graduate college Sadiqabad.
 <br>
+<<<<<<< HEAD
 Learning Programming (Adnan Haider).
+=======
+Learning Programming (Adnan).
+>>>>>>> main
