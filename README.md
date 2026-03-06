@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Web Development projects using React.js and Node.js.<br><br> I’m looking to collaborate on open-source web applications built with the MERN stack.<br><br> I’m looking for help with backend development, REST APIs, and scalable Node.js applications.<br><br> I’m currently learning React.js, Node.js, Express.js, Redux Toolkit, and modern JavaScript (ES6+).<br><br> Ask me about HTML, CSS, JavaScript, React basics, and beginner Node.js development.<br><br> Fun fact: I enjoy building full-stack web applications and learning new technologies.
+I’m currently working on Web Development projects using React.js and Node.js.<br><br> I’m looking to collaborate on open-source web applications built with the MERN stack.<br><br> I’m looking for help with backend development, REST APIs, and scalable Node.js applications.<br><br> I’m currently learning React.js, Node.js, Express.js, Redux Toolkit, and modern JavaScript (ES6+).<br><br> Ask me about HTML, CSS, JavaScript, React basics, and beginner Node.js development.<br><br> I enjoy building full-stack web applications and learning new technologies.
 
 
 ## 🌐 Socials:
